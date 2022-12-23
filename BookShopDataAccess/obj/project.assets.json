@@ -2690,6 +2690,15 @@
           }
         }
       },
+      "stripe-checkout.TypeScript.DefinitelyTyped/0.0.3": {
+        "type": "package",
+        "dependencies": {
+          "stripe.TypeScript.DefinitelyTyped": "(, )"
+        }
+      },
+      "stripe.TypeScript.DefinitelyTyped/0.0.1": {
+        "type": "package"
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4204,7 +4213,9 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
           "Microsoft.Extensions.Identity.Stores": "6.0.10",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10",
+          "System.Linq.Expressions": "4.3.0",
+          "stripe-checkout.TypeScript.DefinitelyTyped": "0.0.3"
         },
         "compile": {
           "bin/placeholder/BookShop.Models.dll": {}
@@ -7529,6 +7540,30 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
+      ]
+    },
+    "stripe-checkout.TypeScript.DefinitelyTyped/0.0.3": {
+      "sha512": "b5lU6fVuhdJHgiSj7hD3Tzr5GL5LnKeHM/9ZL0D36qH53EHoJE0gDbh7enr3QZQRnNsjuMpbIrATxSsA8/5cww==",
+      "type": "package",
+      "path": "stripe-checkout.typescript.definitelytyped/0.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/typings/stripe-checkout/stripe-checkout.d.ts",
+        "stripe-checkout.typescript.definitelytyped.0.0.3.nupkg.sha512",
+        "stripe-checkout.typescript.definitelytyped.nuspec"
+      ]
+    },
+    "stripe.TypeScript.DefinitelyTyped/0.0.1": {
+      "sha512": "uSVOCtpFWolydO4pYefEFquwSdwIHqikUwXxgN7N3qyO+tDMVdoY/IGss2Vbcc/CfXKpMG1OMCpdmGUo6pie2A==",
+      "type": "package",
+      "path": "stripe.typescript.definitelytyped/0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/typings/stripe/stripe.d.ts",
+        "stripe.typescript.definitelytyped.0.0.1.nupkg.sha512",
+        "stripe.typescript.definitelytyped.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -11358,7 +11393,9 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.10",
       "Microsoft.Extensions.Identity.Stores >= 6.0.10",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.10"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.10",
+      "System.Linq.Expressions >= 4.3.0",
+      "stripe-checkout.TypeScript.DefinitelyTyped >= 0.0.3"
     ]
   },
   "packageFolders": {
@@ -11467,6 +11504,14 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.10, )"
+          },
+          "System.Linq.Expressions": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "stripe-checkout.TypeScript.DefinitelyTyped": {
+            "target": "Package",
+            "version": "[0.0.3, )"
           }
         },
         "imports": [
@@ -11485,11 +11530,21 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "stripe-checkout.TypeScript.DefinitelyTyped 0.0.3 does not provide an inclusive lower bound for dependency stripe.TypeScript.DefinitelyTyped. An approximate best match of stripe.TypeScript.DefinitelyTyped 0.0.1 was resolved.",
+      "libraryId": "stripe.TypeScript.DefinitelyTyped",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

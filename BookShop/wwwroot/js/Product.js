@@ -3,7 +3,7 @@
 $(document).ready(function () {
     loadDataTable();
 });
-$('<div class="loading">Loading</div>').appendTo('body');
+
 function loadDataTable() {
     dataTable = $('#tblData').DataTable({
         "ajax": {

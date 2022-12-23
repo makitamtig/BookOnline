@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G0rPA7w1BHpW1J6zFKQgBHO49JBv7oBySwWEiInOE7K1d7XRPX1qSZC1qqUIA5Tz74v0tro6TOlO/GPxGLDSWA==",
+  "dgSpecHash": "7AtutLsjzT723/gbs+pV4Kf2My02eBXkZpY8mvANchAd0s0fxLQJDA3huhLcBsI6Tpa8Ab/ijGGQmYPE6GhUKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShopDataAccess\\BookShop.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -134,6 +134,8 @@
     "C:\\Users\\anous\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\anous\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\anous\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\anous\\.nuget\\packages\\stripe-checkout.typescript.definitelytyped\\0.0.3\\stripe-checkout.typescript.definitelytyped.0.0.3.nupkg.sha512",
+    "C:\\Users\\anous\\.nuget\\packages\\stripe.typescript.definitelytyped\\0.0.1\\stripe.typescript.definitelytyped.0.0.1.nupkg.sha512",
     "C:\\Users\\anous\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\anous\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\anous\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -216,6 +218,16 @@
     "C:\\Users\\anous\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "stripe-checkout.TypeScript.DefinitelyTyped 0.0.3 does not provide an inclusive lower bound for dependency stripe.TypeScript.DefinitelyTyped. An approximate best match of stripe.TypeScript.DefinitelyTyped 0.0.1 was resolved.",
+      "libraryId": "stripe.TypeScript.DefinitelyTyped",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

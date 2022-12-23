@@ -22,6 +22,8 @@ C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.A
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -99,16 +101,20 @@ C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.E
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -358,6 +364,7 @@ C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\NuGet.Packaging.
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\Stripe.net.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -366,6 +373,7 @@ C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Compositi
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\anous\Desktop\BookShopOnline\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -553,6 +561,11 @@ C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\BookShop.MvcAppl
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\anous\Desktop\BookShopOnline\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css

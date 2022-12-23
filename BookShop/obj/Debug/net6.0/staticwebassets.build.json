@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1Gzm8CK34P0qil9/KCcvBWmHPUeIh3Hla4ppn0FMktY=",
+  "Hash": "fbA8gwC/8JBJMj6ydI0cncOL1c/3g7H4xWCrO9T9x+E=",
   "Source": "BookShop",
   "BasePath": "_content/BookShop",
   "Mode": "Default",
@@ -1683,6 +1683,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\cf36e657-976d-4bf2-a428-5fafb50e6edb.png"
     },
     {
+      "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\Images\\Products\\congrats.jpg",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "Images/Products/congrats.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\congrats.jpg"
+    },
+    {
       "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\Images\\Products\\d0ed4546-8d67-44b4-92c7-bf99dfd13b79.jpg",
       "SourceId": "BookShop",
       "SourceType": "Discovered",
@@ -1785,6 +1802,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\ffb03a4c-884a-4061-b1a5-3533e89d7ed4.jpg"
     },
     {
+      "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\Images\\Products\\Leaf-blade_resized-1024x768.jpg",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "Images/Products/Leaf-blade_resized-1024x768.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\Leaf-blade_resized-1024x768.jpg"
+    },
+    {
       "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\js\\Company.js",
       "SourceId": "BookShop",
       "SourceType": "Discovered",
@@ -1800,6 +1834,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Company.js"
+    },
+    {
+      "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\js\\order.js",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\anous\\Desktop\\BookShopOnline\\BookShop\\wwwroot\\js\\Product.js",

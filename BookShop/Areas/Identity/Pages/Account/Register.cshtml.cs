@@ -1,6 +1,5 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
-#nullable disable
 
 using System;
 using System.Collections.Generic;
@@ -46,14 +45,14 @@ namespace BookShop.Areas.Identity.Pages.Account
             IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
-            _roleManager=roleManager;   
+            _roleManager = roleManager; 
             _userManager = userManager;
             _userStore = userStore;
             _emailStore = GetEmailStore();
             _signInManager = signInManager;
             _logger = logger;
             _emailSender = emailSender;
-            _roleManager = roleManager;
+           
         }
 
         /// <summary>
@@ -138,7 +137,7 @@ namespace BookShop.Areas.Identity.Pages.Account
 
           
             _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
-            _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Idni)).GetAwaiter().GetResult();
+            _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Indi)).GetAwaiter().GetResult();
             _roleManager.CreateAsync(new IdentityRole(SD.Role_Employeee)).GetAwaiter().GetResult();
             _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Comp)).GetAwaiter().GetResult();
             }
@@ -159,7 +158,7 @@ namespace BookShop.Areas.Identity.Pages.Account
             };
         }
 
-        public async Task<IActionResult> OnPostAsync(string returnUrl = null)
+        public async Task<IActionResult> OnPostAsync(string? returnUrl = null)
         {
             returnUrl ??= Url.Content("~/");
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
@@ -189,7 +188,7 @@ namespace BookShop.Areas.Identity.Pages.Account
 
                     if(Input.Role ==null){
 
-                        await _userManager.AddToRoleAsync(user, SD.Role_User_Idni);
+                        await _userManager.AddToRoleAsync(user, SD.Role_User_Indi);
                     }
                     else
                     {
